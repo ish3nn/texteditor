@@ -110,3 +110,4 @@ dkms.conf
 /cmake-build-release/cmake_install.cmake
 /cmake-build-release/CMakeCache.txt
 /InterVariable.ttf
+/test.txt

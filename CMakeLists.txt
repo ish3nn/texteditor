@@ -8,8 +8,8 @@ find_package(SDL3_ttf REQUIRED)
 
 add_executable(
         texteditor
-        editor.c
         config.h
+        editor.c
 )
 
 target_link_libraries(texteditor
